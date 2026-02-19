@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Destin! <br/><a <a href="www.linkedin.com/in/destindanquah">Aspiring Security Professional</a>
+<h1>Hi, I'm Destin! <br/><a <a href="www.linkedin.com/in/destindanquah">Aspiring Cybersecurity Analyst</a>
 
 <h2>Featured Projects:</h2>
 
