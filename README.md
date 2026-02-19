@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Destin105/Destin105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Destin! <br/><a <a href="www.linkedin.com/in/destindanquah">Aspiring Security Professional</a>
 
-Here are some ideas to get you started:
+<h2>Featured Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [SecureScan Agent](https://github.com/NehemiaAraia/SecureScan-Agent)
+
+- [RAG SOC Assistant](https://github.com/NehemiaAraia/RAG-SOC-Assistant)
+
+- [Secure Netflix Deployment](https://github.com/NehemiaAraia/Secure-Netflix-Deployment)
+
+- [ThreatMap AI](https://github.com/NehemiaAraia/ThreatMap-AI)
+
+- [Deepfake Detector](https://github.com/NehemiaAraia/Deepfake-Detector)
+  
+- [Scalable Pacman App](https://github.com/NehemiaAraia/Scalable-Pacman-App)
+
+- [AI Meeting Summarizer](https://github.com/NehemiaAraia/AI-Meeting-Summarizer)
+  
+- [Secure CI/CD Pipeline](https://github.com/NehemiaAraia/Secure-CI-CD-Pipeline)
+
+
+
+
+
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="DestinDanquah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/destindanquah
+
+
